@@ -1,2 +1,2 @@
 # Git_Homework1
-Java hazi feladt
+##Java hazi feladt
